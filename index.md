@@ -2,25 +2,23 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to Ankit sharma website
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+We try to make different type of learning based on physics and try to apply machine learning and artificial intelligence.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Remote lab
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is remote lan whic you can do elctronics lab work any where any time
 
-## Header 2
+## Image detection
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+>Idea is to use open cv and teach machin learning model to replciate the circuit board
 
-### Header 3
+### Project 3
 
 ```js
 // Javascript code with syntax highlighting.
